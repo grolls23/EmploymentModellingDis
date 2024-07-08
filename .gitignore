@@ -1,0 +1,6 @@
+*.geojsonseq
+*.geojson
+data/
+data_imports/
+Cache/
+ml_results/
